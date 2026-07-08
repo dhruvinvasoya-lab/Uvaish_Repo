@@ -1,0 +1,1636 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_MakeAppointment6094749903842",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "text-vertical-center"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "id": "btn-make-appointment",
+                        "href": "./profile.php#login",
+                        "class": "btn btn-dark btn-lg"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@id='btn-make-appointment']",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584,
+                    "d_y": 299,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//header[@id='top']/div/a",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-make-appointmentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-make-appointment",
+                    "locator_id": "9",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#btn-make-appointmentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Make AppointmeTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Make AppointmentTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/a",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-dark btn-lgTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin645"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Username14094825067492",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control",
+                        "id": "txt-username",
+                        "name": "username",
+                        "placeholder": "Username",
+                        "value": "",
+                        "autocomplete": "off"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='txt-username']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='login']/div/div/div[2]/form/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt-usernameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt-username",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#txt-usernameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username484"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Username14094825067492",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control",
+                        "id": "txt-username",
+                        "name": "username",
+                        "placeholder": "Username",
+                        "value": "",
+                        "autocomplete": "off"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='txt-username']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='login']/div/div/div[2]/form/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt-usernameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt-username",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#txt-usernameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 297.390625,
+                    "suggest_name": "username826"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Password16094825067492",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "form-control",
+                        "id": "txt-password",
+                        "name": "password",
+                        "placeholder": "Password",
+                        "value": "",
+                        "autocomplete": "off"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='txt-password']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='login']/div/div/div[2]/form/div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt-passwordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt-password",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#txt-passwordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password776"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Password16094825067492",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "form-control",
+                        "id": "txt-password",
+                        "name": "password",
+                        "placeholder": "Password",
+                        "value": "",
+                        "autocomplete": "off"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='txt-password']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='login']/div/div/div[2]/form/div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt-passwordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt-password",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#txt-passwordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 360,
+                    "d_x": 590,
+                    "d_y": 346.390625,
+                    "suggest_name": "password895"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Login17094825067492",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-offset-4 col-sm-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "id": "btn-login",
+                        "type": "submit",
+                        "class": "btn btn-default"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='btn-login']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='login']/div/div/div[2]/form/div[4]/div/button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-loginTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-login",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#btn-loginTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-defaultTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 58,
+                    "d_x": 590,
+                    "d_y": 395.390625,
+                    "suggest_name": "login729"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Facility12094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "id": "combo_facility",
+                        "name": "facility",
+                        "class": "form-control"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Tokyo CURA Healthcare Center"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Hongkong CURA Healthcare Center"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Seoul CURA Healthcare Center"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='combo_facility']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "combo_facilityTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#combo_facility",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#combo_facilityTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah617"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Facility12094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "id": "combo_facility",
+                        "name": "facility",
+                        "class": "form-control"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Tokyo CURA Healthcare Center"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Hongkong CURA Healthcare Center"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "Seoul CURA Healthcare Center"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='combo_facility']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "combo_facilityTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#combo_facility",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#combo_facilityTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 144,
+                    "suggest_name": "tokyocurah591"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Medicaid22094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "radio-inline"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "radio",
+                        "name": "programs",
+                        "id": "radio_program_medicaid",
+                        "value": "Medicaid"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='radio_program_medicaid']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div[3]/div/label[2]/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673.625,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "radio_program_medicaidTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673.625,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#radio_program_medicaid",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673.625,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#radio_program_medicaidTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673.625,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//label[2]/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 673.625,
+                    "d_y": 246,
+                    "suggest_name": "radioprogr982"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_visitdate26094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "input-group date",
+                        "data-provide": "datepicker",
+                        "data-date-format": "dd/mm/yyyy"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "input-group-addon"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control",
+                        "id": "txt_visit_date",
+                        "name": "visit_date",
+                        "placeholder": "dd/mm/yyyy",
+                        "autocomplete": "off",
+                        "required": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='txt_visit_date']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div[4]/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt_visit_dateTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt_visit_date",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#txt_visit_dateTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 331,
+                    "d_x": 587.5,
+                    "d_y": 277,
+                    "suggest_name": "ddmmyyyy038"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_comment28094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "class": "form-control",
+                        "id": "txt_comment",
+                        "name": "comment",
+                        "placeholder": "Comment",
+                        "rows": "10"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//textarea[@id='txt_comment']",
+                    "locator_id": "3",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div[5]/div/textarea",
+                    "locator_id": "3",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "txt_commentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#txt_comment",
+                    "locator_id": "9",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea#txt_commentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea",
+                    "locator_id": "3",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 214,
+                    "d_w": 370,
+                    "d_x": 587.5,
+                    "d_y": 326,
+                    "suggest_name": "comment862"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_BookAppointment29094902228142",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-offset-5 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "id": "btn-book-appointment",
+                        "type": "submit",
+                        "class": "btn btn-default"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='btn-book-appointment']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='appointment']/div/div/form/div[6]/div/button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-book-appointmentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-book-appointment",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#btn-book-appointmentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-defaultTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 137,
+                    "d_x": 587.5,
+                    "d_y": 555,
+                    "suggest_name": "bookappoin567"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AppointmentConfirmationheading9094941618961",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-12 text-center"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "class": "lead"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-12 text-center"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Appointment Confirmation')]",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 102,
+                    "d_y": 93,
+                    "suggest_name": "appointmen314"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='summary']/div/div/div/h2",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 102.5,
+                    "d_y": 93,
+                    "suggest_name": "appointmen314"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 102.5,
+                    "d_y": 93,
+                    "suggest_name": "appointmen314"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "section#summary > div > div > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 102.5,
+                    "d_y": 93,
+                    "suggest_name": "appointmen314"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 102.5,
+                    "d_y": 93,
+                    "suggest_name": "appointmen314"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Facilityvalue12094941618961",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "id": "facility"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//p[@id='facility']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562,
+                    "d_y": 206,
+                    "suggest_name": "hongkongcu625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='summary']/div/div/div[2]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 206.390625,
+                    "suggest_name": "hongkongcu625"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "facilityTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 206.390625,
+                    "suggest_name": "hongkongcu625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#facility",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 206.390625,
+                    "suggest_name": "hongkongcu625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p#facilityTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 206.390625,
+                    "suggest_name": "hongkongcu625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 206.390625,
+                    "suggest_name": "hongkongcu625"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_HealthcareProgramvalue16094941618961",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "id": "program"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//p[@id='program']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562,
+                    "d_y": 266,
+                    "suggest_name": "medicaid096"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='summary']/div/div/div[4]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 266.390625,
+                    "suggest_name": "medicaid096"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "programTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 266.390625,
+                    "suggest_name": "medicaid096"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#program",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 266.390625,
+                    "suggest_name": "medicaid096"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p#programTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 266.390625,
+                    "suggest_name": "medicaid096"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 266.390625,
+                    "suggest_name": "medicaid096"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_VisitDatevalue18094941618961",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "id": "visit_date"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//p[@id='visit_date']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562,
+                    "d_y": 296,
+                    "suggest_name": "ptgwebcomm287"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='summary']/div/div/div[5]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 296.390625,
+                    "suggest_name": "ptgwebcomm287"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "visit_dateTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 296.390625,
+                    "suggest_name": "ptgwebcomm287"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#visit_date",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 296.390625,
+                    "suggest_name": "ptgwebcomm287"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p#visit_dateTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 296.390625,
+                    "suggest_name": "ptgwebcomm287"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 296.390625,
+                    "suggest_name": "ptgwebcomm287"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Commentvalue20094941618961",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-8"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "id": "comment"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//p[@id='comment']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562,
+                    "d_y": 326,
+                    "suggest_name": "ihaveveryh002"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='summary']/div/div/div[6]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 326.390625,
+                    "suggest_name": "ihaveveryh002"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "commentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 326.390625,
+                    "suggest_name": "ihaveveryh002"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#comment",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 326.390625,
+                    "suggest_name": "ihaveveryh002"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p#commentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 326.390625,
+                    "suggest_name": "ihaveveryh002"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/div[2]/p",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 470,
+                    "d_x": 562.5,
+                    "d_y": 326.390625,
+                    "suggest_name": "ihaveveryh002"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}

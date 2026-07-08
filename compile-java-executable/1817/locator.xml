@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_MakeAppointment6094749903842">
+    <element type="xpath">//a[@id='btn-make-appointment']</element>
+    <element type="xpath">//header[@id='top']/div/a</element>
+    <element type="id">btn-make-appointmentTGWEBCOMMA1</element>
+    <element type="css">#btn-make-appointment</element>
+    <element type="css">a#btn-make-appointmentTGWEBCOMMA0</element>
+    <element type="partiallinktext">Make AppointmeTGWEBCOMMA0</element>
+    <element type="linktext">Make AppointmentTGWEBCOMMA0</element>
+    <element type="xpath">//div/a</element>
+    <element type="class">btn btn-dark btn-lgTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Username14094825067492">
+    <element type="xpath">//input[@id='txt-username']</element>
+    <element type="xpath">//section[@id='login']/div/div/div[2]/form/div[2]/div/input</element>
+    <element type="id">txt-usernameTGWEBCOMMA1</element>
+    <element type="css">#txt-username</element>
+    <element type="css">input#txt-usernameTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/input</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Username14094825067492">
+    <element type="xpath">//input[@id='txt-username']</element>
+    <element type="xpath">//section[@id='login']/div/div/div[2]/form/div[2]/div/input</element>
+    <element type="id">txt-usernameTGWEBCOMMA1</element>
+    <element type="css">#txt-username</element>
+    <element type="css">input#txt-usernameTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/input</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Password16094825067492">
+    <element type="xpath">//input[@id='txt-password']</element>
+    <element type="xpath">//section[@id='login']/div/div/div[2]/form/div[3]/div/input</element>
+    <element type="id">txt-passwordTGWEBCOMMA1</element>
+    <element type="css">#txt-password</element>
+    <element type="css">input#txt-passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/input</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_Password16094825067492">
+    <element type="xpath">//input[@id='txt-password']</element>
+    <element type="xpath">//section[@id='login']/div/div/div[2]/form/div[3]/div/input</element>
+    <element type="id">txt-passwordTGWEBCOMMA1</element>
+    <element type="css">#txt-password</element>
+    <element type="css">input#txt-passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/input</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_Login17094825067492">
+    <element type="xpath">//button[@id='btn-login']</element>
+    <element type="xpath">//section[@id='login']/div/div/div[2]/form/div[4]/div/button</element>
+    <element type="id">btn-loginTGWEBCOMMA1</element>
+    <element type="css">#btn-login</element>
+    <element type="css">button#btn-loginTGWEBCOMMA0</element>
+    <element type="xpath">//button</element>
+    <element type="class">btn btn-defaultTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_Facility12094902228142">
+    <element type="xpath">//select[@id='combo_facility']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div/div/select</element>
+    <element type="id">combo_facilityTGWEBCOMMA1</element>
+    <element type="css">#combo_facility</element>
+    <element type="css">select#combo_facilityTGWEBCOMMA0</element>
+    <element type="xpath">//select</element>
+    <element type="class">form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Facility12094902228142">
+    <element type="xpath">//select[@id='combo_facility']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div/div/select</element>
+    <element type="id">combo_facilityTGWEBCOMMA1</element>
+    <element type="css">#combo_facility</element>
+    <element type="css">select#combo_facilityTGWEBCOMMA0</element>
+    <element type="xpath">//select</element>
+    <element type="class">form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Medicaid22094902228142">
+    <element type="xpath">//input[@id='radio_program_medicaid']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div[3]/div/label[2]/input</element>
+    <element type="id">radio_program_medicaidTGWEBCOMMA1</element>
+    <element type="css">#radio_program_medicaid</element>
+    <element type="css">input#radio_program_medicaidTGWEBCOMMA0</element>
+    <element type="xpath">//label[2]/input</element>
+  </locator>
+  <locator name="ele_visitdate26094902228142">
+    <element type="xpath">//input[@id='txt_visit_date']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div[4]/div/div/input</element>
+    <element type="id">txt_visit_dateTGWEBCOMMA1</element>
+    <element type="css">#txt_visit_date</element>
+    <element type="css">input#txt_visit_dateTGWEBCOMMA0</element>
+    <element type="xpath">//div/input</element>
+    <element type="class">form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_comment28094902228142">
+    <element type="xpath">//textarea[@id='txt_comment']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div[5]/div/textarea</element>
+    <element type="id">txt_commentTGWEBCOMMA1</element>
+    <element type="css">#txt_comment</element>
+    <element type="css">textarea#txt_commentTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_BookAppointment29094902228142">
+    <element type="xpath">//button[@id='btn-book-appointment']</element>
+    <element type="xpath">//section[@id='appointment']/div/div/form/div[6]/div/button</element>
+    <element type="id">btn-book-appointmentTGWEBCOMMA1</element>
+    <element type="css">#btn-book-appointment</element>
+    <element type="css">button#btn-book-appointmentTGWEBCOMMA0</element>
+    <element type="xpath">//button</element>
+    <element type="class">btn btn-defaultTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_AppointmentConfirmationheading9094941618961">
+    <element type="xpath">//h2[contains(text(),'Appointment Confirmation')]</element>
+    <element type="xpath">//section[@id='summary']/div/div/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">section#summary &gt; div &gt; div &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+  </locator>
+  <locator name="ele_Facilityvalue12094941618961">
+    <element type="xpath">//p[@id='facility']</element>
+    <element type="xpath">//section[@id='summary']/div/div/div[2]/div[2]/p</element>
+    <element type="id">facilityTGWEBCOMMA1</element>
+    <element type="css">#facility</element>
+    <element type="css">p#facilityTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/p</element>
+  </locator>
+  <locator name="ele_HealthcareProgramvalue16094941618961">
+    <element type="xpath">//p[@id='program']</element>
+    <element type="xpath">//section[@id='summary']/div/div/div[4]/div[2]/p</element>
+    <element type="id">programTGWEBCOMMA1</element>
+    <element type="css">#program</element>
+    <element type="css">p#programTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div[2]/p</element>
+  </locator>
+  <locator name="ele_VisitDatevalue18094941618961">
+    <element type="xpath">//p[@id='visit_date']</element>
+    <element type="xpath">//section[@id='summary']/div/div/div[5]/div[2]/p</element>
+    <element type="id">visit_dateTGWEBCOMMA1</element>
+    <element type="css">#visit_date</element>
+    <element type="css">p#visit_dateTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div[2]/p</element>
+  </locator>
+  <locator name="ele_Commentvalue20094941618961">
+    <element type="xpath">//p[@id='comment']</element>
+    <element type="xpath">//section[@id='summary']/div/div/div[6]/div[2]/p</element>
+    <element type="id">commentTGWEBCOMMA1</element>
+    <element type="css">#comment</element>
+    <element type="css">p#commentTGWEBCOMMA0</element>
+    <element type="xpath">//div[6]/div[2]/p</element>
+  </locator>
+</locators>

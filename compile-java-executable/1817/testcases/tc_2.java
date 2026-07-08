@@ -20,13 +20,14 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_1 {
+public class tc_2 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_1() {
+	public void tc_2() {
 		tg.openBrowser();
-		tg.wait(2);
-		tg.wait(1);
+				tg.wait(5);
+				tg.wait("ele_makeappoin935", ComparisonType.IS_VISIBLE);
+				tg.click("ele_makeappoin935", 1);
 		tg.close();
 	}
 }
