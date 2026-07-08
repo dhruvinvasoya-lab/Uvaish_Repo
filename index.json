@@ -1,0 +1,479 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "663",
+    "user_id": 41,
+    "abo_version": {
+        "version_id": "663",
+        "app_id": "375",
+        "version_name": "2.0",
+        "version_description": "",
+        "cm_version_module": "1817",
+        "platform": "3",
+        "ai_modal_id": "cotester_client_C7Oxnnmfio3gUJJPG4oLZIpK",
+        "script_type": "3",
+        "is_master": "1",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "0",
+        "git_restore_id": "0",
+        "is_delete": "0"
+    },
+    "app_id": "375",
+    "platform": "3",
+    "ab_applications": {
+        "app_id": "375",
+        "project_id": "88",
+        "name": "UvaishWeb_e870712c41792cbc",
+        "display_name": "UvaishWeb",
+        "user_id": "41",
+        "os_type": "0",
+        "platform": "3",
+        "nob": "0",
+        "application_token": "3eb31730f7fd86637248fb238897099e",
+        "cm_version_id": "1,656,663",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "testcase_retries_number": "3",
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "jira_project_id": null,
+        "created_by": "43",
+        "project_restriction_type": "1",
+        "is_delete": "0",
+        "ai_modal_id": null,
+        "created": "2026-07-08 14:06:08",
+        "updated": "2026-07-08 14:06:08"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "1817",
+            "version_id": "663",
+            "parent_id": "0",
+            "module_name": "suite1",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "1829",
+            "cm_default_resource": "",
+            "cm_test_function": "1494",
+            "cm_test_case": "3026,3027",
+            "cm_test_case_ai": "",
+            "cm_network": "168",
+            "cm_renderer": "",
+            "view_updated_date_time": "2026-07-08 15:35:54",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "",
+            "is_running": "0",
+            "is_delete": "0",
+            "qtest_skip_module_sync": "0",
+            "qtest_skip_exec_sync": "0",
+            "abo_vm_test_case": [
+                {
+                    "tc_id": "3026",
+                    "version_module_id": "1817",
+                    "tc_name": "tc_1",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "765",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "43",
+                    "is_internal_launch": "0",
+                    "updated_at": "2026-07-08 15:06:40",
+                    "created_at": "2026-07-08 15:06:40",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [
+                        {
+                            "id": "531",
+                            "version_module_id": "1817",
+                            "name": "tag",
+                            "tc_id": "3026",
+                            "user_id": "41"
+                        }
+                    ],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/375/663/1817/testcases/tc_1.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "3027",
+                    "version_module_id": "1817",
+                    "tc_name": "TCmanual1",
+                    "tc_description": " (Generated from Manual Test Case)",
+                    "tc_website_url": "https://katalon-demo-cura.herokuapp.com/?utm_source=chatgpt.com",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "is_draft": "43",
+                    "is_internal_launch": "0",
+                    "updated_at": "2026-07-08 15:17:15",
+                    "created_at": "2026-07-08 15:17:15",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/375/663/1817/testcases/tcmanual1.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_version_proc": [
+                {
+                    "proc_id": "1494",
+                    "version_module_id": "1817",
+                    "proc_name": "fun1",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "43",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/375/663/1817/testfunctions/fun1.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "784",
+                    "test_case_id": "3027",
+                    "jira_id": "0",
+                    "version_module_id": "1817",
+                    "tc_name": "manual12",
+                    "thread_id": "cotester_thread_6a4e1c4722048197b60837b4c8ef2b63019beacb23a8b94d",
+                    "generation_status": "idle",
+                    "generation_started_at": null,
+                    "generation_completed_at": null,
+                    "generation_tc_id": null,
+                    "tc_description": "",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-08 15:21:52",
+                    "created_at": "2026-07-08 15:12:52",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "5840",
+                            "tc_id": "784",
+                            "step_order": "1",
+                            "step_action": "Tap on the Make Appointment button on the home screen.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5841",
+                            "tc_id": "784",
+                            "step_order": "2",
+                            "step_action": "Wait until the Username field is visible.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5842",
+                            "tc_id": "784",
+                            "step_order": "3",
+                            "step_action": "Enter \"John Doe\" in the Username field.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5843",
+                            "tc_id": "784",
+                            "step_order": "4",
+                            "step_action": "Wait until the Password field is visible.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5844",
+                            "tc_id": "784",
+                            "step_order": "5",
+                            "step_action": "Enter \"ThisIsNotAPassword\" in the Password field.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5845",
+                            "tc_id": "784",
+                            "step_order": "6",
+                            "step_action": "Tap on the Login button.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5846",
+                            "tc_id": "784",
+                            "step_order": "7",
+                            "step_action": "Wait until the Appointment Booking page is displayed.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5847",
+                            "tc_id": "784",
+                            "step_order": "8",
+                            "step_action": "Select \"Hongkong CURA Healthcare Center\" from the Facility dropdown.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5848",
+                            "tc_id": "784",
+                            "step_order": "9",
+                            "step_action": "Select \"Medicaid\" as the healthcare program.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5849",
+                            "tc_id": "784",
+                            "step_order": "10",
+                            "step_action": "Select a future date from the Visit Date selector.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5850",
+                            "tc_id": "784",
+                            "step_order": "11",
+                            "step_action": "Enter \"I have very high fever.\" in the Comment field.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5851",
+                            "tc_id": "784",
+                            "step_order": "12",
+                            "step_action": "Review the appointment details.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5852",
+                            "tc_id": "784",
+                            "step_order": "13",
+                            "step_action": "Tap on the Book Appointment button.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5853",
+                            "tc_id": "784",
+                            "step_order": "14",
+                            "step_action": "Wait until the Appointment Confirmation page is displayed.",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5854",
+                            "tc_id": "784",
+                            "step_order": "15",
+                            "step_action": "Verify that the appointment confirmation displays:",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5855",
+                            "tc_id": "784",
+                            "step_order": "16",
+                            "step_action": "- Healthcare Facility: Hongkong CURA Healthcare Center",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5856",
+                            "tc_id": "784",
+                            "step_order": "17",
+                            "step_action": "- Healthcare Program: Medicaid",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5857",
+                            "tc_id": "784",
+                            "step_order": "18",
+                            "step_action": "- Visit Date: Matches the previously selected future date",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        },
+                        {
+                            "step_id": "5858",
+                            "tc_id": "784",
+                            "step_order": "19",
+                            "step_action": "- Comment: I have very high fever",
+                            "created_at": "2026-07-08 15:15:56",
+                            "updated_at": "2026-07-08 15:15:56"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "1301",
+                            "tc_id": "784",
+                            "thread_id": "",
+                            "user_id": "41",
+                            "message": "User opens the CURA Healthcare application.\nUser taps on the Make Appointment button.\nWait until the Username field is visible.\nUser enters username: John Doe.\nWait until the Password field is visible.\nUser enters password: ThisIsNotAPassword.\nUser taps on the Login button.\nWait until the Appointment Booking page is displayed.\nUser selects Hongkong CURA Healthcare Center from the Facility dropdown.\nUser selects Medicaid as the healthcare program.\nUser selects a future visit date.\nUser enters the comment: \"I have very high fever.\"\nUser reviews the appointment details.\nUser taps on the Book Appointment button.\nWait until the Appointment Confirmation page is displayed.\nUser verifies the appointment details:\nHealthcare Facility: Hongkong CURA Healthcare Center\nHealthcare Program: Medicaid\nVisit Date: Selected Future Date\nComment: I have very high fever\nUser confirms that all displayed appointment information is correct.\nAppointment booking process is completed successfully.",
+                            "message_type": "sender",
+                            "created_at": "2026-07-08 15:15:40",
+                            "updated_at": "2026-07-08 15:15:40"
+                        },
+                        {
+                            "id": "1302",
+                            "tc_id": "784",
+                            "thread_id": "",
+                            "user_id": "41",
+                            "message": "Test Case: 1\n\nTest Case Title: Successful Appointment Booking with Hongkong CURA Healthcare Center and Medicaid\nModule: Appointment Booking\nPriority: High\n\nPreconditions:\n- User has access to the CURA Healthcare application.\n- User is on the application home screen.\n- \"John Doe\" is a registered user with valid credentials.\n\nTest Steps:\n1. Tap on the Make Appointment button on the home screen.\n2. Wait until the Username field is visible.\n3. Enter \"John Doe\" in the Username field.\n4. Wait until the Password field is visible.\n5. Enter \"ThisIsNotAPassword\" in the Password field.\n6. Tap on the Login button.\n7. Wait until the Appointment Booking page is displayed.\n8. Select \"Hongkong CURA Healthcare Center\" from the Facility dropdown.\n9. Select \"Medicaid\" as the healthcare program.\n10. Select a future date from the Visit Date selector.\n11. Enter \"I have very high fever.\" in the Comment field.\n12. Review the appointment details.\n13. Tap on the Book Appointment button.\n14. Wait until the Appointment Confirmation page is displayed.\n15. Verify that the appointment confirmation displays:\n    - Healthcare Facility: Hongkong CURA Healthcare Center\n    - Healthcare Program: Medicaid\n    - Visit Date: Matches the previously selected future date\n    - Comment: I have very high fever\n\nExpected Result:\n- The user is directed to the Appointment Booking page after a successful login.\n- The selected Facility, Healthcare Program, Visit Date, and Comment fields display the correct values on the Confirmation page.\n- The Appointment Confirmation page confirms the booking and shows all submitted details accurately.\n- The appointment booking process completes successfully with a confirmation message.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-08 15:15:49",
+                            "updated_at": "2026-07-08 15:15:49"
+                        }
+                    ]
+                }
+            ],
+            "abo_vm_network_assert": [
+                {
+                    "na_id": "168",
+                    "version_module_id": "1817",
+                    "na_name": "networkassert",
+                    "na_description": "",
+                    "cm_step_list": "223",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "223",
+                            "na_id": "168",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "String",
+                            "param2": "str1",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                }
+            ],
+            "abo_update": [
+                {
+                    "id": "6016",
+                    "user_id": "41",
+                    "app_id": "375",
+                    "version_id": "663",
+                    "version_module_id": "1817",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "6017",
+                    "user_id": "41",
+                    "app_id": "375",
+                    "version_id": "663",
+                    "version_module_id": "1817",
+                    "description": "",
+                    "action_process": "add_test_case"
+                },
+                {
+                    "id": "6018",
+                    "user_id": "41",
+                    "app_id": "375",
+                    "version_id": "663",
+                    "version_module_id": "1817",
+                    "description": "",
+                    "action_process": "add_test_function"
+                },
+                {
+                    "id": "6019",
+                    "user_id": "41",
+                    "app_id": "375",
+                    "version_id": "663",
+                    "version_module_id": "1817",
+                    "description": "",
+                    "action_process": "add_network_assert"
+                },
+                {
+                    "id": "6021",
+                    "user_id": "41",
+                    "app_id": "375",
+                    "version_id": "663",
+                    "version_module_id": "1817",
+                    "description": "",
+                    "action_process": "edit_test_case"
+                }
+            ],
+            "abo_vm_test_story_manual": [],
+            "abo_version_pages": [
+                {
+                    "version_page_id": "1829",
+                    "version_module_id": "1817",
+                    "cm_resource": "",
+                    "page_name": "google",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1817/main_1829.png",
+                    "git_restore_page_id": "0",
+                    "created": "2026-07-08 15:12:26",
+                    "updated": "2026-07-08 15:12:26",
+                    "abo_version_maps": []
+                },
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "1817",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": [
+        {
+            "scheduler_id": "21",
+            "run_by": "43",
+            "user_id": "41",
+            "version_id": "663",
+            "name": "scheduler1",
+            "start_date_time": "2026-07-08 15:31:00",
+            "end_date_time": null,
+            "estimate_run_time": "5",
+            "is_reserved": "0",
+            "scheduler_run_type": "2",
+            "repeat_number": "1",
+            "repeat_calendar": "1",
+            "week_day": null,
+            "time_interval": null,
+            "test_suites_data": "[{\"id\":\"1817\",\"testcases\":[\"3027\",\"3026\",\"3027\",\"3026\"],\"tags\":\"\"},{\"id\":\"1817\",\"testcases\":[\"3027\",\"3026\",\"3027\",\"3026\"],\"tags\":\"\"}]",
+            "testsuite_exec_type": "0",
+            "platform": "3",
+            "app_build_selection": "0",
+            "build_app_id": "0",
+            "bundle_identifier": null,
+            "website_url": "https://demoqa.com/automation-practice-form",
+            "devices_run_type": "0",
+            "devices": null,
+            "devices_preferences": "0",
+            "no_of_multiple_iteration": "1",
+            "is_resign_ipa": "0",
+            "timezone": "Asia/Calcutta",
+            "created": "2026-07-08 15:29:50",
+            "updated": "2026-07-08 15:30:38",
+            "deleted": "0",
+            "deleted_at": null,
+            "resign_build_path": null
+        }
+    ],
+    "domain": "cotestertest2.testgrid.io"
+}
