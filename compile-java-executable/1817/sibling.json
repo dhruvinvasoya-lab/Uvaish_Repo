@@ -1631,6 +1631,121 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_makeappoin935",
+            "tg_text": "Make Appointment",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "text-vertical-center"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "id": "btn-make-appointment",
+                        "href": "./profile.php#login",
+                        "class": "btn btn-dark btn-lg"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@id='btn-make-appointment']",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584,
+                    "d_y": 299,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//header[@id='top']/div/a",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-make-appointmentTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-make-appointment",
+                    "locator_id": "9",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#btn-make-appointmentTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Make AppointmeTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Make AppointmentTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/a",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-dark btn-lgTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 46,
+                    "d_w": 177,
+                    "d_x": 584.03125,
+                    "d_y": 299.84375,
+                    "suggest_name": "makeappoin935"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

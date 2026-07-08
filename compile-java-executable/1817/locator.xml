@@ -148,4 +148,15 @@
     <element type="css">p#commentTGWEBCOMMA0</element>
     <element type="xpath">//div[6]/div[2]/p</element>
   </locator>
+  <locator name="ele_makeappoin935">
+    <element type="xpath">//a[@id='btn-make-appointment']</element>
+    <element type="xpath">//header[@id='top']/div/a</element>
+    <element type="id">btn-make-appointmentTGWEBCOMMA1</element>
+    <element type="css">#btn-make-appointment</element>
+    <element type="css">a#btn-make-appointmentTGWEBCOMMA0</element>
+    <element type="partiallinktext">Make AppointmeTGWEBCOMMA0</element>
+    <element type="linktext">Make AppointmentTGWEBCOMMA0</element>
+    <element type="xpath">//div/a</element>
+    <element type="class">btn btn-dark btn-lgTGWEBCOMMA3</element>
+  </locator>
 </locators>
