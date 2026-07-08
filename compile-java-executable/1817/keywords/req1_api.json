@@ -1,0 +1,13 @@
+{
+    "url": "https://cotestertest2.testgrid.io/s/csv-to-json/20260708/iQeQJg.json",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_path": "records[0].Name",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}
