@@ -1,0 +1,1 @@
+[{"id":"62","user_id":"134","tc_id":"1540","json_url":"https:\/\/production.testgrid.io\/s\/csv-to-json\/20260422\/53ZnoR.json","json_keys":"name,email","test_case":"[{\"where\":\"\",\"rows\":[{\"key\":\"name\",\"operator\":\"=\",\"capability\":\"uvaish\",\"where\":\"\"}]}]","api_url":null,"api_keys":null,"database_object":null,"database_keys":null,"type":"1","tc_name":"code_2"}]
