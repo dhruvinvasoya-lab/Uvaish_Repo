@@ -15,17 +15,21 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc_1 {
+class swipe_fun {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_1() {
-		tg.openDevice();
-		tg.wait(5);
-		tg.testFunction("launchdemoqa", new Object[]{});
-		tg.wait(2);
-		tg.testFunction("swipe_fun", new Object[]{});
-		tg.wait(2);
-		tg.close();
+	public static void swipe_fun() {
+		START_CUSTOM_SCRIPT;
+		driver.get("https://www.amazon.in");
+		END_CUSTOM_SCRIPT;
+				tg.wait(5);
+				tg.swipe(Direction.LEFT);
+				tg.wait(5);
+				tg.swipe(Direction.RIGHT);
+				tg.wait(5);
+				tg.swipe(Direction.UP);
+				tg.wait(5);
+				tg.swipe(Direction.DOWN);
+				tg.writeToCSV("text", "text", "swipe works perfectly....");
+		tg.pullToRefresh("ele_View1776872579960");
 	}
 }
