@@ -48,7 +48,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13397.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67625.png"
         },
         {
             "testcase_element": "ele_PasswordEditText1775813734321",
@@ -98,7 +98,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13398.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67626.png"
         },
         {
             "testcase_element": "ele_testLOGINViewGroup1775817452174",
@@ -128,7 +128,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13403.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67627.png"
         },
         {
             "testcase_element": "ele_EditText1776156712780",
@@ -178,7 +178,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13833.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67628.png"
         },
         {
             "testcase_element": "ele_EditText1776156804091",
@@ -228,7 +228,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13834.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67629.png"
         },
         {
             "testcase_element": "ele_EditText1776156834456",
@@ -278,7 +278,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13835.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67630.png"
         },
         {
             "testcase_element": "ele_EditText1776156918136",
@@ -328,7 +328,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13836.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67631.png"
         },
         {
             "testcase_element": "ele_MaleRadioButton1776157210879",
@@ -378,7 +378,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13837.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67632.png"
         },
         {
             "testcase_element": "ele_sheetcontainerFrameLayout1776253196425",
@@ -417,7 +417,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/13976.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67633.png"
         },
         {
             "testcase_element": "ele_demoqacomautomationpracticeformEditText1776270170096",
@@ -477,7 +477,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14586.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67634.png"
         },
         {
             "testcase_element": "ele_demoqacomautomationpracticeformEditText1776270756719",
@@ -657,7 +657,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14677.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67639.png"
         },
         {
             "testcase_element": "ele_httpswwwrapidtablescomtoolsclickcounterhtmlc10TextView1776335494720",
@@ -694,7 +694,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14678.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67640.png"
         },
         {
             "testcase_element": "ele_EditText1776335558813",
@@ -733,7 +733,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14679.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67641.png"
         },
         {
             "testcase_element": "ele_Button1776335706880",
@@ -782,7 +782,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14680.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67642.png"
         },
         {
             "testcase_element": "ele_WebViewFrameLayout1776779230401",
@@ -812,7 +812,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14687.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67643.png"
         },
         {
             "testcase_element": "ele_EditText1776846706815",
@@ -862,7 +862,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14688.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67644.png"
         },
         {
             "testcase_element": "ele_Male",
@@ -870,7 +870,7 @@
             "sibling_selector": [],
             "locator": [
                 {
-                    "locators": "Web_css",
+                    "locators": "Css",
                     "locators_val": "div#genterWrapper > div:nth-of-type(2) > divTGWEBCOMMA2",
                     "locator_id": "9",
                     "d_h": 26,
@@ -911,8 +911,8 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "web_css",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14689.png"
+            "element_type": "css",
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67645.png"
         },
         {
             "testcase_element": "ele_SubmitButton1776861331772",
@@ -961,7 +961,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14693.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67646.png"
         },
         {
             "testcase_element": "ele_EditText1776861767562",
@@ -1010,7 +1010,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14694.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67647.png"
         },
         {
             "testcase_element": "ele_mainmenudetectlocationTextView1776866351598",
@@ -1059,7 +1059,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/14808.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67648.png"
         },
         {
             "testcase_element": "ele_PICKFROMGALLERYButton1776870322019",
@@ -1108,7 +1108,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/15169.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67649.png"
         },
         {
             "testcase_element": "ele_View1776872579960",
@@ -1158,7 +1158,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.116.5/s/ele-imgs/263/15170.png"
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67650.png"
         }
     ]
 }
