@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "59",
+    "version_id": 59,
     "user_id": "16",
     "abo_version": {
         "version_id": "59",
@@ -17,7 +17,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "1"
     },
     "app_id": "30",
     "platform": "3",
@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "28",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-23 16:33:26",
+            "view_updated_date_time": "2026-07-23 16:37:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -392,7 +392,7 @@
                     "cm_resource": "3252,3253,3254,3255,3256,3257,3258,3259,3260,3261,3262,3263,3264",
                     "page_name": "demo QA from",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "182",
                     "created": "2026-07-16 10:07:13",
                     "updated": "2026-07-16 10:07:13",
                     "abo_version_maps": [
@@ -426,7 +426,7 @@
                             "d_y": "255",
                             "d_w": "232",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3252",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3252.png"
@@ -461,7 +461,7 @@
                             "d_y": "255",
                             "d_w": "232",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3253",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3253.png"
@@ -496,7 +496,7 @@
                             "d_y": "301",
                             "d_w": "553",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3254",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3254.png"
@@ -531,7 +531,7 @@
                             "d_y": "351",
                             "d_w": "16",
                             "d_h": "16",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3255",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3255.png"
@@ -566,7 +566,7 @@
                             "d_y": "381",
                             "d_w": "553",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3256",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3256.png"
@@ -601,7 +601,7 @@
                             "d_y": "427",
                             "d_w": "226",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3257",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3257.png"
@@ -636,7 +636,7 @@
                             "d_y": "502.125",
                             "d_w": "85",
                             "d_h": "19",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3258",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3258.png"
@@ -671,7 +671,7 @@
                             "d_y": "502.125",
                             "d_w": "51",
                             "d_h": "19",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3259",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3259.png"
@@ -706,7 +706,7 @@
                             "d_y": "661.03125",
                             "d_w": "27",
                             "d_h": "27",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3260",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3260.png"
@@ -741,7 +741,7 @@
                             "d_y": "59",
                             "d_w": "5",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3261",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3261.png"
@@ -776,7 +776,7 @@
                             "d_y": "349.984375",
                             "d_w": "22",
                             "d_h": "26",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3262",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3262.png"
@@ -811,7 +811,7 @@
                             "d_y": "154",
                             "d_w": "292",
                             "d_h": "39",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3263",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3263.png"
@@ -846,7 +846,7 @@
                             "d_y": "208",
                             "d_w": "292",
                             "d_h": "39",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3264",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3264.png"
@@ -859,7 +859,7 @@
                     "cm_resource": "3265,3266,3267,3268,3269,3270,3271,3272,3273,3274",
                     "page_name": "swag labs",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "183",
                     "created": "2026-07-16 10:07:13",
                     "updated": "2026-07-16 10:07:13",
                     "abo_version_maps": [
@@ -893,7 +893,7 @@
                             "d_y": "302",
                             "d_w": "292",
                             "d_h": "49",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3265",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3265.png"
@@ -928,7 +928,7 @@
                             "d_y": "155",
                             "d_w": "159",
                             "d_h": "238",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3266",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3266.png"
@@ -963,7 +963,7 @@
                             "d_y": "360",
                             "d_w": "160",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3267",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3267.png"
@@ -998,7 +998,7 @@
                             "d_y": "69",
                             "d_w": "169",
                             "d_h": "32",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3268",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3268.png"
@@ -1033,7 +1033,7 @@
                             "d_y": "339",
                             "d_w": "160",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3269",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3269.png"
@@ -1068,7 +1068,7 @@
                             "d_y": "591",
                             "d_w": "160",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3270",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3270.png"
@@ -1103,7 +1103,7 @@
                             "d_y": "10",
                             "d_w": "40",
                             "d_h": "40",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3271",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3271.png"
@@ -1138,7 +1138,7 @@
                             "d_y": "591",
                             "d_w": "160",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3272",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3272.png"
@@ -1173,7 +1173,7 @@
                             "d_y": "843",
                             "d_w": "160",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3273",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3273.png"
@@ -1208,7 +1208,7 @@
                             "d_y": "603",
                             "d_w": "220",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3274",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3274.png"
@@ -1221,7 +1221,7 @@
                     "cm_resource": "3275",
                     "page_name": "zingtouch",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "184",
                     "created": "2026-07-16 10:07:13",
                     "updated": "2026-07-16 10:07:13",
                     "abo_version_maps": [
@@ -1255,7 +1255,7 @@
                             "d_y": "632",
                             "d_w": "298",
                             "d_h": "134",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3275",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3275.png"
@@ -1268,7 +1268,7 @@
                     "cm_resource": "3276,3277",
                     "page_name": "csv",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "185",
                     "created": "2026-07-16 10:07:13",
                     "updated": "2026-07-16 10:07:13",
                     "abo_version_maps": [
@@ -1302,7 +1302,7 @@
                             "d_y": "226.859375",
                             "d_w": "408",
                             "d_h": "90",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3276",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3276.png"
@@ -1337,7 +1337,7 @@
                             "d_y": "332.859375",
                             "d_w": "460",
                             "d_h": "76",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3277",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3277.png"
@@ -1350,7 +1350,7 @@
                     "cm_resource": "3278,3279,3280,3281",
                     "page_name": "register from",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "186",
                     "created": "2026-07-16 10:07:13",
                     "updated": "2026-07-16 10:07:13",
                     "abo_version_maps": [
@@ -1384,7 +1384,7 @@
                             "d_y": "722.59375",
                             "d_w": "70",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3278",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3278.png"
@@ -1419,7 +1419,7 @@
                             "d_y": "611.59375",
                             "d_w": "165",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3279",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3279.png"
@@ -1454,7 +1454,7 @@
                             "d_y": "66.59375",
                             "d_w": "120",
                             "d_h": "120",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3280",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3280.png"
@@ -1489,7 +1489,7 @@
                             "d_y": "588.59375",
                             "d_w": "165",
                             "d_h": "34",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "3281",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/76/3281.png"
@@ -1844,7 +1844,7 @@
             "cm_test_case_ai": "",
             "cm_network": "29",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-23 16:33:26",
+            "view_updated_date_time": "2026-07-23 16:37:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -2008,7 +2008,7 @@
             "cm_test_case_ai": "",
             "cm_network": "30",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-23 16:33:26",
+            "view_updated_date_time": "2026-07-23 16:37:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -2124,7 +2124,7 @@
             "cm_test_case_ai": "",
             "cm_network": "31",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-23 16:35:21",
+            "view_updated_date_time": "2026-07-23 16:37:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
