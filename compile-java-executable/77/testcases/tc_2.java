@@ -25,14 +25,15 @@ public class tc_2 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc_2() {
 		tg.openBrowser();
-				tg.wait(5);
-		// [DISABLED] 		tg.testFunction("call_fun_1", new Object[]{});
-		// [DISABLED] 		tg_String var_return = "null";
-				tg.testFunction("presskey_fun", new Object[]{});
-				tg.wait(5);
-				tg.testFunction("screenshot", new Object[]{});
-				tg.wait(2);
-		// [DISABLED] 		tg.printLogs(var_return);
+		tg.wait(5);
+		// [DISABLED] tg.testFunction("call_fun_1", new Object[]{});
+		// [DISABLED] tg_String var_return = "null";
+		tg.testFunction("presskey_fun", new Object[]{});
+		tg.wait(5);
+		// [DISABLED] tg.testFunction("screenshot", new Object[]{});
+		// [DISABLED] tg.wait(2);
+		// [DISABLED] tg.printLogs(var_return);
+		tg.wait(5);
 		tg.close();
 	}
 }
