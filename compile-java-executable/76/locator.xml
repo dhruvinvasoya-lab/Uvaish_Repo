@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname350">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname015">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[4]/input</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="css">input#lastNameTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_nameexampl862">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="xpath">//div[@id='userEmail-wrapper']/div[2]/input</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="css">input#userEmailTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div[2]/input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_genderradi912">
+    <element type="xpath">//input[@id='gender-radio-1']</element>
+    <element type="xpath">//div[@id='genterWrapper']/div[2]/div/input</element>
+    <element type="id">gender-radio-1TGWEBCOMMA1</element>
+    <element type="css">#gender-radio-1</element>
+    <element type="css">input#gender-radio-1TGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div[2]/div/input</element>
+    <element type="class">form-check-inputTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_mobilenumb016">
+    <element type="xpath">//input[@id='userNumber']</element>
+    <element type="xpath">//div[@id='userNumber-wrapper']/div[2]/input</element>
+    <element type="id">userNumberTGWEBCOMMA1</element>
+    <element type="css">#userNumber</element>
+    <element type="css">input#userNumberTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div[2]/input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_dateofbirt356">
+    <element type="xpath">//input[@id='dateOfBirthInput']</element>
+    <element type="xpath">//div[@id='dateOfBirth']/div/div/input</element>
+    <element type="id">dateOfBirthInputTGWEBCOMMA1</element>
+    <element type="css">#dateOfBirthInput</element>
+    <element type="css">input#dateOfBirthInputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/input</element>
+    <element type="class">form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_januaryfeb237">
+    <element type="xpath">//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div/div/div/div/div/select</element>
+    <element type="css">select.react-datepicker__month-select</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; selectTGWEBCOMMA1</element>
+    <element type="xpath">//select</element>
+    <element type="class">react-datepicker__month-selectTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_selecttgwe374">
+    <element type="xpath">//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div/div/div/div/div[2]/select</element>
+    <element type="css">select.react-datepicker__year-select</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/select</element>
+    <element type="class">react-datepicker__year-selectTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_divtgwebco217">
+    <element type="xpath">//div[@aria-label='Choose Thursday, November 25th, 2004']</element>
+    <element type="xpath">//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[4]/div[5]</element>
+    <element type="css">div.react-datepicker__day.react-datepicker__day--025</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(4) &gt; div:nth-of-type(5)TGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div[5]</element>
+    <element type="class">react-datepicker__day react-datepicker__day--025TGWEBCOMMA26</element>
+  </locator>
+  <locator name="ele_subjectsin378">
+    <element type="xpath">//input[@id='subjectsInput']</element>
+    <element type="xpath">//div[@id='subjectsContainer']/div/div/div[2]/input</element>
+    <element type="id">subjectsInputTGWEBCOMMA1</element>
+    <element type="css">#subjectsInput</element>
+    <element type="css">input#subjectsInputTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/div[2]/input</element>
+    <element type="class">subjects-auto-complete__inputTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_svgtgwebco119">
+    <element type="css">svg.css-8mmkcgTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">svg.css-8mmkcg</element>
+    <element type="css">div#subjectsContainer &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; svgTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_username341">
+    <element type="xpath">//input[@id='user-name']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div/input</element>
+    <element type="id">user-nameTGWEBCOMMA1</element>
+    <element type="css">#user-name</element>
+    <element type="css">input#user-nameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">input_error form_inputTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_password779">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/div[2]/input</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="css">input#passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">input_error form_inputTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_loginbutto213">
+    <element type="xpath">//input[@id='login-button']</element>
+    <element type="xpath">//div[@id='login_button_container']/div/form/input</element>
+    <element type="id">login-buttonTGWEBCOMMA1</element>
+    <element type="css">#login-button</element>
+    <element type="css">input#login-buttonTGWEBCOMMA0</element>
+    <element type="xpath">//form/input</element>
+    <element type="class">submit-button btn_actionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_saucelabsb752">
+    <element type="xpath">//img[@alt='Sauce Labs Backpack']</element>
+    <element type="xpath">//a[@id='item_4_img_link']/img</element>
+    <element type="css">img.inventory_item_img</element>
+    <element type="css">a#item_4_img_link &gt; imgTGWEBCOMMA0</element>
+    <element type="xpath">//a/img</element>
+    <element type="class">inventory_item_imgTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_addtocart219">
+    <element type="xpath">//button[@id='add-to-cart']</element>
+    <element type="xpath">//div[@id='inventory_item_container']/div/div/div[2]/button</element>
+    <element type="id">add-to-cartTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart</element>
+    <element type="css">button#add-to-cartTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/button</element>
+    <element type="class">btn btn_primary btn_small btn_inventoryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_backtoprod511">
+    <element type="xpath">//button[@id='back-to-products']</element>
+    <element type="xpath">//div[@id='header_container']/div[2]/div/button</element>
+    <element type="id">back-to-productsTGWEBCOMMA1</element>
+    <element type="css">#back-to-products</element>
+    <element type="css">button#back-to-productsTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/button</element>
+    <element type="class">btn btn_secondary back btn_large inventory_details_back_buttonTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_addtocart551">
+    <element type="xpath">//button[@id='add-to-cart-sauce-labs-bike-light']</element>
+    <element type="xpath">//div[@id='inventory_container']/div/div[2]/div[2]/div[2]/button</element>
+    <element type="id">add-to-cart-sauce-labs-bike-lightTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-sauce-labs-bike-light</element>
+    <element type="css">button#add-to-cart-sauce-labs-bike-lightTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div[2]/div[2]/button</element>
+    <element type="class">btn btn_primary btn_small btn_inventoryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_addtocart960">
+    <element type="xpath">//button[@id='add-to-cart-sauce-labs-bolt-t-shirt']</element>
+    <element type="xpath">//div[@id='inventory_container']/div/div[3]/div[2]/div[2]/button</element>
+    <element type="id">add-to-cart-sauce-labs-bolt-t-shirtTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-sauce-labs-bolt-t-shirt</element>
+    <element type="css">button#add-to-cart-sauce-labs-bolt-t-shirtTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div[2]/div[2]/button</element>
+    <element type="class">btn btn_primary btn_small btn_inventoryTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_shoppingca376">
+    <element type="xpath">//a[@data-test='shopping-cart-link']</element>
+    <element type="xpath">//div[@id='shopping_cart_container']/a</element>
+    <element type="css">a.shopping_cart_link</element>
+    <element type="css">div#shopping_cart_container &gt; aTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/a</element>
+    <element type="class">shopping_cart_linkTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_addtocart139">
+    <element type="xpath">//button[@id='add-to-cart-sauce-labs-fleece-jacket']</element>
+    <element type="xpath">//div[@id='inventory_container']/div/div[4]/div[2]/div[2]/button</element>
+    <element type="id">add-to-cart-sauce-labs-fleece-jacketTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-sauce-labs-fleece-jacket</element>
+    <element type="css">button#add-to-cart-sauce-labs-fleece-jacketTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div[2]/div[2]/button</element>
+    <element type="class">btn btn_primary btn_small btn_inventoryTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_addtocart858">
+    <element type="xpath">//button[@id='add-to-cart-sauce-labs-onesie']</element>
+    <element type="xpath">//div[@id='inventory_container']/div/div[5]/div[2]/div[2]/button</element>
+    <element type="id">add-to-cart-sauce-labs-onesieTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-sauce-labs-onesie</element>
+    <element type="css">button#add-to-cart-sauce-labs-onesieTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div[2]/div[2]/button</element>
+    <element type="class">btn btn_primary btn_small btn_inventoryTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_checkout491">
+    <element type="xpath">//button[@id='checkout']</element>
+    <element type="xpath">//div[@id='cart_contents_container']/div/div[2]/button[2]</element>
+    <element type="id">checkoutTGWEBCOMMA1</element>
+    <element type="css">#checkout</element>
+    <element type="css">button#checkoutTGWEBCOMMA0</element>
+    <element type="xpath">//button[2]</element>
+    <element type="class">btn btn_action btn_medium checkout_buttonTGWEBCOMMA7</element>
+  </locator>
+  <locator name="ele_currentadd096">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="xpath">//div[@id='currentAddress-wrapper']/div[2]/textarea</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="css">textarea#currentAddressTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-controlTGWEBCOMMA7</element>
+  </locator>
+  <locator name="ele_count602">
+    <element type="xpath">//input[@id='count']</element>
+    <element type="xpath">//form[@id='gen']/div/div/div/input</element>
+    <element type="id">countTGWEBCOMMA1</element>
+    <element type="css">#count</element>
+    <element type="css">input#countTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control form-control-lgTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_buttontgwebcomma470">
+    <element type="xpath">//button[@id='addbtn']</element>
+    <element type="xpath">//form[@id='gen']/div/div/div[2]/button</element>
+    <element type="id">addbtnTGWEBCOMMA1</element>
+    <element type="css">#addbtn</element>
+    <element type="css">button#addbtnTGWEBCOMMA0</element>
+    <element type="xpath">//div/div[2]/button</element>
+    <element type="class">btn btn-lg btn-block btn-successTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_submit389">
+    <element type="xpath">//button[@id='submitbtn']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[14]/div/button</element>
+    <element type="id">submitbtnTGWEBCOMMA1</element>
+    <element type="css">#submitbtn</element>
+    <element type="css">button#submitbtnTGWEBCOMMA0</element>
+    <element type="xpath">//div[14]/div/button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_firstpassw278">
+    <element type="xpath">//input[@id='firstpassword']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[12]/div/input</element>
+    <element type="id">firstpasswordTGWEBCOMMA1</element>
+    <element type="css">#firstpassword</element>
+    <element type="css">input#firstpasswordTGWEBCOMMA0</element>
+    <element type="xpath">//div[12]/div/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlengthTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_imagetrgt051">
+    <element type="xpath">//img[@id='imagetrgt']</element>
+    <element type="xpath">//section[@id='section']/div/div/div[3]/div/img</element>
+    <element type="id">imagetrgtTGWEBCOMMA1</element>
+    <element type="css">#imagetrgt</element>
+    <element type="css">img#imagetrgtTGWEBCOMMA0</element>
+    <element type="xpath">//div/img</element>
+  </locator>
+  <locator name="ele_selectskil672">
+    <element type="xpath">//select[@id='Skills']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[8]/div/select</element>
+    <element type="id">SkillsTGWEBCOMMA1</element>
+    <element type="css">#Skills</element>
+    <element type="css">select#SkillsTGWEBCOMMA0</element>
+    <element type="xpath">//select</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA6</element>
+  </locator>
+</locators>

@@ -1,0 +1,37 @@
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class repeatif {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void repeatif() {
+		tg.openBrowser();
+		tg.navigateToUrl("https://www.rapidtables.com/tools/click-counter.html?c1=0");
+		tg_int var_counter = 0;
+		while(tg.verify.isLessThanOrEqualTo(var_counter, 0)){
+		tg.click("ele_buttontgwebcomma470", 1);
+		var_counter = tg.increments(var_counter, 1);
+		}
+		tg.testFunction("screenshot", new Object[]{});
+		tg.close();
+	}
+}

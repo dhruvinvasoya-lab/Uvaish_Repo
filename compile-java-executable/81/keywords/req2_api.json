@@ -1,0 +1,13 @@
+{
+    "url": "https://development.testgrid.io/s/csv-to-json/20260723/VunheS.json",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_path": "records[0].name",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}
