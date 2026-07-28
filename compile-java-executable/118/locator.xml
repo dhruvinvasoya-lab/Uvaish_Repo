@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname343">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/118/1496.png</element>
+  </locator>
+  <locator name="ele_firstname519">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/118/1497.png</element>
+  </locator>
+  <locator name="ele_lastname015">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[4]/input</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="css">input#lastNameTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/118/1498.png</element>
+  </locator>
+  <locator name="ele_lastname397">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[4]/input</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="css">input#lastNameTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+    <element type="image">http://117.240.112.135/s/ele-imgs/118/1499.png</element>
+  </locator>
+</locators>
