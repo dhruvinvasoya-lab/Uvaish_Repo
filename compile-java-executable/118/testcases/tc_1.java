@@ -26,13 +26,14 @@ public class tc_1 {
 	public void tc_1() {
 		tg.openBrowser();
 		tg.wait(5);
-		// [DISABLED] tg.wait("ele_firstname343", ComparisonType.IS_VISIBLE);
-		// [DISABLED] tg.click("ele_firstname343", 1);
+		tg.navigateToUrl("https://demoqa.com/automation-practice-form");
+		tg.wait("ele_firstname343", ComparisonType.IS_VISIBLE);
+		tg.click("ele_firstname343", 1);
 		// [DISABLED] tg.wait("ele_firstname343", ComparisonType.IS_VISIBLE);
 		tg_String var_name = "";
 		var_name = tg.saveToVariable("#TGITVAR.name", var_name);
 		tg.printLogs(var_name);
-		// [DISABLED] tg.type("ele_firstname343", "uvaish");
+		tg.type("ele_firstname343", "#TGITVAR.body");
 		// [DISABLED] tg.wait("ele_lastname015", ComparisonType.IS_VISIBLE);
 		// [DISABLED] tg.click("ele_lastname015", 1);
 		// [DISABLED] tg.wait("ele_lastname015", ComparisonType.IS_VISIBLE);
