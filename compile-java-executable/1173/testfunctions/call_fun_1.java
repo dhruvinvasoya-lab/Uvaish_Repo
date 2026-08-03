@@ -14,6 +14,14 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class suite3 {
+
+class call_fun_1 {
+
+	public static void call_fun_1() {
+		tg.wait(5);
+		tg.testFunction("launchdemoqa", new Object[]{});
+		tg.wait(2);
+		tg.testFunction("swipe_fun", new Object[]{});
+		tg.wait(2);
+	}
 }

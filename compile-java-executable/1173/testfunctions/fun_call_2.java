@@ -14,6 +14,11 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class suite3 {
+
+class fun_call_2 {
+
+	public static void fun_call_2() {
+		tg.wait(2);
+		tg.testFunction("call_fun_1", new Object[]{});
+	}
 }

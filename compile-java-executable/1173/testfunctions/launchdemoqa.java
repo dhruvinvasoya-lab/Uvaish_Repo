@@ -14,6 +14,13 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class suite3 {
+
+class launchdemoqa {
+
+	public static void launchdemoqa() {
+		START_CUSTOM_SCRIPT;
+		driver.get("https://demoqa.com/automation-practice-form");
+		END_CUSTOM_SCRIPT;
+		tg.wait(5);
+	}
 }

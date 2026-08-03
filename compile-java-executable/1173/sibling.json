@@ -1,0 +1,54 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_View1776872579960",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[@resource-id='nav-logo-sprites'])[1]",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 105,
+                    "d_x": 52,
+                    "d_y": 108,
+                    "suggest_name": "View1776872579960"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.view.View[@content-desc='Amazon.in'])[1]",
+                    "d_x": "132",
+                    "d_h": "82",
+                    "suggest_name": "View1776872579960",
+                    "d_w": "264",
+                    "d_y": "270"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/com.google.android.material.navigation.NavigationView/android.view.View/android.view.View/android.view.View/android.view.View",
+                    "d_x": "132",
+                    "d_h": "82",
+                    "suggest_name": "View1776872579960",
+                    "d_w": "264",
+                    "d_y": "270"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 0,
+                    "locators_val": "nav-logo-sprites",
+                    "d_x": "132",
+                    "d_h": "82",
+                    "suggest_name": "View1776872579960",
+                    "d_w": "264",
+                    "d_y": "270"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.26/s/ele-imgs/1169/67650.png"
+        }
+    ]
+}

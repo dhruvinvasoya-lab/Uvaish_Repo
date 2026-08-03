@@ -14,6 +14,15 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class suite3 {
+
+@Listeners(TestListener.class);
+public class tc_3_copy_copy {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc_3_copy_copy() {
+		tg.openDevice();
+		tg.wait(5);
+		tg.testFunction("fun_call_2", new Object[]{});
+		tg.close();
+	}
 }
