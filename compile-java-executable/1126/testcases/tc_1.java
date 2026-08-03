@@ -22,7 +22,7 @@ public class tc_1 {
 	public void tc_1() {
 		tg.openDevice();
 		tg.wait(5);
-		tg.wait(5);
+		tg.wait(2);
 		tg.close();
 	}
 }
