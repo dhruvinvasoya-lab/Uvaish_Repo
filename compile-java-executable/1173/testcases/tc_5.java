@@ -16,13 +16,12 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_3_copy_copy {
+public class tc_5 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_3_copy_copy() {
+	public void tc_5() {
 		tg.openDevice();
 		tg.wait(5);
-		tg.testFunction("fun_call_2", new Object[]{});
 		tg.close();
 	}
 }
