@@ -1,14 +1,14 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "72",
-    "user_id": 9,
+    "version_id": 72,
+    "user_id": 15,
     "abo_version": {
         "version_id": "72",
         "app_id": "44",
         "version_name": "2.0",
         "version_description": "",
-        "cm_version_module": "90,91",
+        "cm_version_module": "90",
         "platform": "2",
         "ai_modal_id": "",
         "script_type": "1",
@@ -16,8 +16,8 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
-        "git_restore_id": "0"
+        "is_git_enabled": "1",
+        "git_restore_id": "4"
     },
     "app_id": "44",
     "platform": "2",
@@ -29,7 +29,7 @@
         "user_id": "9",
         "os_type": "0",
         "platform": "2",
-        "nob": "2",
+        "nob": "5",
         "cm_version_id": "70,72",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -128,89 +128,7 @@
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "418",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "419",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "add_test_function"
-                },
-                {
-                    "id": "420",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "421",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "422",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "add_network_assert"
-                },
-                {
-                    "id": "423",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "delete_network_assert"
-                },
-                {
-                    "id": "424",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "edit_network_assert"
-                },
-                {
-                    "id": "425",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                },
-                {
-                    "id": "426",
-                    "user_id": "9",
-                    "app_id": "44",
-                    "version_id": "72",
-                    "version_module_id": "90",
-                    "description": "",
-                    "action_process": "delete_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
