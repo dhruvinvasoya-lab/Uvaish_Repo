@@ -20,13 +20,13 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_tg {
+public class tc01 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_tg() {
+	public void tc01() {
 		tg.openBrowser();
 		tg.wait(2);
-		tg.navigateToUrl("http://192.168.88.43:Demo");
+		tg.navigateToUrl("http://192.168.88.17:Demo");
 		tg.wait("ele_homecurren925", ComparisonType.IS_VISIBLE);
 		tg.click("ele_homecurren925", 1);
 		tg.wait("ele_about225", ComparisonType.IS_VISIBLE);
