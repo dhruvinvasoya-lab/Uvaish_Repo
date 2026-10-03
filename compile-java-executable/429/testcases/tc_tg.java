@@ -25,7 +25,12 @@ public class tc_tg {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc_tg() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait(2);
+				tg.navigateToUrl("http://192.168.88.43:80/Demo");
+				tg.wait("ele_homecurren925", ComparisonType.IS_VISIBLE);
+				tg.click("ele_homecurren925", 1);
+				tg.wait("ele_about225", ComparisonType.IS_VISIBLE);
+				tg.click("ele_about225", 1);
 		tg.close();
 	}
 }

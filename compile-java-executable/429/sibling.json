@@ -1,0 +1,205 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_homecurren925",
+            "tg_text": "Home",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "class": "nav-item active"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "nav-link",
+                        "href": "index.html"
+                    },
+                    "tg_text": "Home"
+                },
+                "children": [
+                    {
+                        "tag": "span",
+                        "tg_attributes": {
+                            "class": "sr-only"
+                        },
+                        "tg_text": "(current)"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Home')]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057,
+                    "d_y": 53,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='navbarSupportedContent']/div/ul/li/a",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a.nav-link",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#navbarSupportedContent > div > ul > li > aTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "HomeTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//nav/div/div/ul/li/a",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-linkTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 44,
+                    "d_w": 86,
+                    "d_x": 1057.046875,
+                    "d_y": 53.109375,
+                    "suggest_name": "homecurren925"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/429/27303.png"
+        },
+        {
+            "testcase_element": "ele_about225",
+            "tg_text": "About",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "class": "nav-item"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "nav-link",
+                        "href": "about.html"
+                    },
+                    "tg_text": "About"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'About')]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142,
+                    "d_y": 53,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='navbarSupportedContent']/div/ul/li[2]/a",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > nav:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#navbarSupportedContent > div > ul > li:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "AboutTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//nav/div/div/ul/li[2]/a",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-linkTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 44,
+                    "d_w": 93,
+                    "d_x": 1142.6875,
+                    "d_y": 53.109375,
+                    "suggest_name": "about225"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/429/27304.png"
+        }
+    ]
+}

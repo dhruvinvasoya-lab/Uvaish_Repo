@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_homecurren925">
+    <element type="xpath">//a[contains(text(),'Home')]</element>
+    <element type="xpath">//div[@id='navbarSupportedContent']/div/ul/li/a</element>
+    <element type="css">a.nav-link</element>
+    <element type="css">div#navbarSupportedContent &gt; div &gt; ul &gt; li &gt; aTGWEBCOMMA3</element>
+    <element type="partiallinktext">HomeTGWEBCOMMA0</element>
+    <element type="xpath">//nav/div/div/ul/li/a</element>
+    <element type="class">nav-linkTGWEBCOMMA1</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/429/27303.png</element>
+  </locator>
+  <locator name="ele_about225">
+    <element type="xpath">//a[contains(text(),'About')]</element>
+    <element type="xpath">//div[@id='navbarSupportedContent']/div/ul/li[2]/a</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; header:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(2) &gt; nav:nth-child(1) &gt; div:nth-child(3) &gt; div:nth-child(1) &gt; ul:nth-child(1) &gt; li:nth-child(2) &gt; a:nth-child(1)</element>
+    <element type="css">div#navbarSupportedContent &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">AboutTGWEBCOMMA0</element>
+    <element type="xpath">//nav/div/div/ul/li[2]/a</element>
+    <element type="class">nav-linkTGWEBCOMMA2</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/429/27304.png</element>
+  </locator>
+</locators>
