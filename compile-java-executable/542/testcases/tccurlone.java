@@ -21,7 +21,17 @@ public class tccurlone {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tccurlone() {
 		tg.openDevice();
-		tg.wait(1);
+		tg_String var_lcapptoken = "Null";
+		tg_String var_lcverid = "Null";
+		tg.printLogs(var_gbid);
+		tg.printLogs(var_gbappname);
+		tg.printLogs(var_lcapptoken);
+		tg.printLogs(var_lcverid);
+				tg.readFromAPI("NewCurl_api.json", var_gbid, var_gbappname, var_lcapptoken, var_lcverid);
+		tg.printLogs(var_gbid);
+		tg.printLogs(var_gbappname);
+		tg.printLogs(var_lcapptoken);
+		tg.printLogs(var_lcverid);
 		tg.close();
 	}
 }

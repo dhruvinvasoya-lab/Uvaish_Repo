@@ -1,0 +1,41 @@
+{
+    "url": "https://cotesterdev3.testgrid.io/api/user/applications",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": {
+        "Cookie": "_testgrid=601c7d009f4ca754758285d47a2730ba; ci_session=aktsp7rgs4ev0kb1dpiojjbrljf4gqv9",
+        "Content-Type": "multipart/form-data; boundary=<calculated when request is sent>"
+    },
+    "h_static": {
+        "Cookie": "",
+        "Content-Type": ""
+    },
+    "params": {
+        "user_token": "ymuy1eeqyt2z66prol9cjeqd7u7k9t4z"
+    },
+    "p_static": {
+        "user_token": ""
+    },
+    "key_paths": [
+        {
+            "key_path": "data[0].app_id",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "data[0].name",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "data[0].application_token",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "data[0].cm_version_id",
+            "key_data_type": "string"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}
